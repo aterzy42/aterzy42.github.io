@@ -1,8 +1,8 @@
 # Data Scientist
 
-###Education
+### Education
 MS Applied Math
 
-###Work Experience
+### Work Experience
 
-###Projects
+### Projects
