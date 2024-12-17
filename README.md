@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras, Excel, PowerBI, R
 
 ## Education						       		
 - M.S. Applied Mathematics	| California State University Northridge (_August 2020_)	 			        		
