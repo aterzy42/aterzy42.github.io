@@ -39,6 +39,13 @@ When dealing with high dimensional data, common statistical tools often become i
 
 <img src="/assets/simplex" alt="Blah" width="370" height="290" />
 
+### Using Spline Regression
+[Repo](https://github.com/aterzy42/Spline)
+
+Spline regression is a method used to model complex, nonlinear relationships between variables by fitting piecewise polynomial functions. It divides the data into segments and fits a low-degree polynomial to each segment, ensuring smooth transitions at the boundaries (called "knots"). This approach allows for flexibility in capturing non-linear trends while avoiding overfitting. The report and beamer presentation includes an implementation of spline regression in R, demonstrating its application for modeling such relationships.
+
+
+
 
 
 
