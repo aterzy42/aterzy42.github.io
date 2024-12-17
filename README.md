@@ -32,7 +32,7 @@ machine learning, culminating in successful Kaggle challenge submissions.
 - Partnered with cross-functional teams from academia, government, and industry to present findings and tackle complex research challenges.
   
 ## Projects
-###An Investigation of Distance-Based Statistical Methods in High Dimensions
+### An Investigation of Distance-Based Statistical Methods in High Dimensions
 [Repo](https://github.com/aterzy42/Spline)
 
 When dealing with high dimensional data, common statistical tools often become inef- fective. This thesis examines causes of these issues through an exploration of high dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and also introduce a new test statistic for the general distribution free two-sample problem. Other applications are briefly considered.
