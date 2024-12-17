@@ -20,3 +20,17 @@ metrics, delivering actionable insights to the underwriting and modeling teams.
 - Built a state estimation pipeline using OpenCV employing several image processing techniques, including key point extraction, centroid estimation, and symmetry detection.
 - Delivered presentations to stakeholders, offering clear interpretations of methodologies and actionable insights for strategic planning and next steps.
 
+**TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
+- Delivered engaging lectures and recitations for precalculus and higher-level courses.
+- Provided tutoring, support during office hours, and graded assignments and exams.
+- Led a summer intensive on data science for incoming students, guiding them through coding, statistics, and
+machine learning, culminating in successful Kaggle challenge submissions.
+
+**RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
+- Applied different regression models to predict the effectiveness of specific weapon designs, uncovering new insights into critical performance factors.
+- Created advanced visualizations with Matplotlib that uncovered patterns and previously unnoticed similarities among outliers, leading to further research.
+- Partnered with cross-functional teams from academia, government, and industry to present findings and tackle complex research challenges.
+  
+
+
+
