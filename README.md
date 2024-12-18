@@ -39,6 +39,8 @@ When dealing with high dimensional data, common statistical tools often become i
 
 <img src="/assets/simplex" alt="Blah" width="370" height="290" />
 
+<br></br>
+
 ### Using Spline Regression
 [Repo](https://github.com/aterzy42/Spline)
 
