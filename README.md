@@ -39,7 +39,7 @@ When dealing with high dimensional data, common statistical tools often become i
 
 <img src="/assets/simplex" alt="Blah" width="370" height="290" />
 
-<br></br>
+<br>
 
 ### Using Spline Regression
 [Repo](https://github.com/aterzy42/Spline)
@@ -48,7 +48,7 @@ Spline regression is a method used to model complex, nonlinear relationships bet
 
 <img src="/assets/spline" alt="Blah" width="300" height="150" />
 
-<br></br>
+<br>
 ### Should I Invest Streamlit Dashboard
 [Repo](https://github.com/aterzy42/Spline)
 
