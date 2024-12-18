@@ -49,6 +49,7 @@ Spline regression is a method used to model complex, nonlinear relationships bet
 <img src="/assets/spline" alt="Blah" width="300" height="150" />
 
 <br>
+
 ### Should I Invest Streamlit Dashboard
 [Repo](https://github.com/aterzy42/Spline)
 
