@@ -8,28 +8,28 @@
 
 ## Work Experience
 **ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
-- Leveraged advanced analytic techniques such as retention and cohort analysis to estimate future cash flows of unconventional financial products offered to YouTube channels.
-- Led the development of a forecasting model to predict revenue per thousand views on YouTube videos using Python and SQL, improving valuation accuracy and significantly reducing manual underwriting time.
-- Collaborated with the sales team to craft compelling data-driven narratives to pitch to global creators and their teams, resulting in the closure of high-value deals worth several million dollars. Regularly developed
-ad-hoc SQL queries to organize data and create insightful reports in Excel.
-- Streamlined data using SQL and created a comprehensive Power BI report to track valuation performance
-metrics, delivering actionable insights to the underwriting and modeling teams.
+- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, improving forecast accuracy and enabling more reliable financial planning for creator partnerships.
+- Led development of a forecasting model in Python and SQL to predict revenue per thousand views on a YouTube video, reducing manual underwriting time by 50% and increasing valuation precision for creator deals.
+- Collaborated with the sales team to craft data-driven narratives for global YouTube creators, leading to the closure of multi-million dollar contracts and expanding high-value partnerships.
+- Designed and executed ad-hoc SQL queries to extract and organize data, delivering detailed reports in Excel to enable faster, more informed decision-making.
+- Streamlined data processing using SQL and developed a Power BI dashboard to track valuation performance, providing actionable insights that improved team collaboration and refined underwriting strategies.
 
 **MACHINE LEARNING SPECIALIST – COMPUTER VISION @ Bluehalo (_September 2019 - October 2022_)**
-- Developed multiple anomaly detection methods in Python for satellite imagery and created a PyQT5-based GUI for image annotation, enabling effective training for object detection.
-- Built a state estimation pipeline using OpenCV employing several image processing techniques, including key point extraction, centroid estimation, and symmetry detection.
-- Delivered presentations to stakeholders, offering clear interpretations of methodologies and actionable insights for strategic planning and next steps.
+- Developed multiple anomaly detection methods in Python for satellite imagery and designed a PyQT5-based GUI for image annotation, improving object detection model training accuracy by streamlining the data labeling process.
+- Built a state estimation pipeline using OpenCV, integrating image processing techniques such as key point extraction, centroid estimation, and symmetry detection, enhancing object tracking accuracy and performance for real-time applications.
+- Delivered presentations to stakeholders, interpreting complex methodologies and providing actionable insights that influenced strategic planning and informed next steps, driving informed decision-making.
 
 **TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
-- Delivered engaging lectures and recitations for precalculus and higher-level courses.
-- Provided tutoring, support during office hours, and graded assignments and exams.
-- Led a summer intensive on data science for incoming students, guiding them through coding, statistics, and
-machine learning, culminating in successful Kaggle challenge submissions.
+- Delivered engaging lectures and recitations for precalculus and higher-level courses, improving student comprehension and engagement.
+- Provided personalized tutoring and support during office hours, addressing individual student challenges and improving academic performance.
+- Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to successfully complete Kaggle challenges and strengthening their foundational skills for future coursework.
 
 **RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
-- Applied different regression models to predict the effectiveness of specific weapon designs, uncovering new insights into critical performance factors.
-- Created advanced visualizations with Matplotlib that uncovered patterns and previously unnoticed similarities among outliers, leading to further research.
-- Partnered with cross-functional teams from academia, government, and industry to present findings and tackle complex research challenges.
+- Applied various regression models to predict the effectiveness of specific weapon designs, uncovering new insights into critical performance factors that guided the development of more efficient and effective designs.
+- Created advanced visualizations with Matplotlib to analyze data, revealing patterns and previously unnoticed
+similarities among outliers, leading to further research and more accurate modeling.
+- Partnered with cross-functional teams from academia, government, and industry to present findings and address
+complex research challenges, fostering collaboration and driving innovative solutions.
   
 ## Projects
 ### An Investigation of Distance-Based Statistical Methods in High Dimensions
