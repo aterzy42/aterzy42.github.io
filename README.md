@@ -46,7 +46,7 @@ When dealing with high dimensional data, common statistical tools often become i
 
 This project focuses on developing a predictive model to estimate user interactions with real estate listings posted on NoBroker, a popular online platform in India. The assignment, which was posted on StrataScratch, challenges participants to build a model that forecasts how likely users are to interact with various listings on the website. The task involves analyzing rent amount, location, and others factors  that influence interactions.
 
-<img src="/assets/nobroker" alt="Blah" width="477" height="245" />
+<img src="/assets/nobroker" alt="Blah1" width="477" height="245" />
 
 <br>
 
