@@ -33,9 +33,18 @@ machine learning, culminating in successful Kaggle challenge submissions.
   
 ## Projects
 ### An Investigation of Distance-Based Statistical Methods in High Dimensions
-[Repo](https://github.com/aterzy42/Spline)
+[Repo](https://github.com/aterzy42/CurseofDimensionality)
 
 When dealing with high dimensional data, common statistical tools often become inef- fective. This thesis examines causes of these issues through an exploration of high dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and also introduce a new test statistic for the general distribution free two-sample problem. Other applications are briefly considered.
+
+<img src="/assets/simplex" alt="Blah" width="370" height="290" />
+
+<br>
+
+### Predicting Clicks On a Real Estate Posting
+[Repo](https://github.com/aterzy42/Property_Click)
+
+This project focuses on developing a predictive model to estimate user interactions with real estate listings posted on NoBroker, a popular online platform in India. The assignment, which was posted on StrataScratch, challenges participants to build a model that forecasts how likely users are to interact with various listings on the website. The task involves analyzing rent amount, location, and others factors  that influence interactions.
 
 <img src="/assets/simplex" alt="Blah" width="370" height="290" />
 
@@ -51,7 +60,7 @@ Spline regression is a method used to model complex, nonlinear relationships bet
 <br>
 
 ### Should I Invest Streamlit Dashboard
-[Repo](https://github.com/aterzy42/Spline)
+[Repo](https://github.com/aterzy42/StockAnalysis)
 
 This project leverages a Random Forest classifier to predict whether a stock will experience a relative price change greater than 1 compared to the S&P 500. The prediction model is deployed through an interactive Streamlit dashboard, where users can customize various valuation metrics to generate stock predictions. Additionally, the dashboard features a dedicated tab that allows users to select a stock by ticker and retrieve company descriptions, as well as data on institutional and insider ownership, which are scraped using BeautifulSoup. The project also includes an exploratory data analysis (EDA) notebook and the complete code for the dashboard implementation.
 
