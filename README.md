@@ -64,7 +64,7 @@ Spline regression is a method used to model complex, nonlinear relationships bet
 
 This project leverages a Random Forest classifier to predict whether a stock will experience a relative price change greater than 1 compared to the S&P 500. The prediction model is deployed through an interactive Streamlit dashboard, where users can customize various valuation metrics to generate stock predictions. Additionally, the dashboard features a dedicated tab that allows users to select a stock by ticker and retrieve company descriptions, as well as data on institutional and insider ownership, which are scraped using BeautifulSoup. The project also includes an exploratory data analysis (EDA) notebook and the complete code for the dashboard implementation.
 
-<img src="/assets/shouldiinvest.png" alt="Blah" width="400" height="250" />
+<img src="/assets/shoudiinvest.png" alt="Blah" width="400" height="250" />
 
 
 
