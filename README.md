@@ -70,6 +70,16 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 
 ### Obligatory Projects:
 
+### Spam Filter
+[Repo](https://github.com/aterzy42/SpamFilter)
+
+
+
+<img src="/assets/titanic.png" alt="Blah" width="800" height="250" />
+
+
+
+
 ### Titanic Prediction
 [Repo](https://github.com/aterzy42/Titanic)
 
