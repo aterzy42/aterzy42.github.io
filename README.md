@@ -73,11 +73,11 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 ### Spam Filter
 [Repo](https://github.com/aterzy42/SpamFilter)
 
-
+This project uses the UCI SMS Spam Collection dataset to build a model that classifies SMS messages as spam or not. It involves cleaning and transforming the text data through feature engineering (like removing stop words and extracting message length) and applying TF-IDF to highlight important words. Different machine learning models are trained to predict whether a message is spam or not. 
 
 <img src="/assets/spam.png" alt="Blah" width = "300" height = "230"/>
 
-
+<br>
 
 
 ### Titanic Prediction
