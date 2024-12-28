@@ -66,6 +66,10 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 
 <img src="/assets/shoudiinvest.png" alt="Blah" width="400" height="250" />
 
+<br>
+
+### Obligatory Projects ###
+
 
 
 
