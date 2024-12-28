@@ -75,7 +75,7 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 
 
 
-<img src="/assets/titanic.png" alt="Blah" width="800" height="250" />
+<img src="/assets/spam.png" alt="Blah"/>
 
 
 
