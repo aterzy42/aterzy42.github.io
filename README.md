@@ -70,6 +70,15 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 
 ### Obligatory Projects:
 
+###Simple OCR
+[Repo](https://github.com/aterzy42/DigitHighlighter)
+
+This project uses several classical image processing techinques to extract the digits written on a notepad. A classifier is also trained on the MNIST dataset using Keras.
+
+<img src="/assets/phone_number.png" alt="Blah" width = "370" height = "480"/>
+
+<br>
+
 ### Spam Filter
 [Repo](https://github.com/aterzy42/SpamFilter)
 
