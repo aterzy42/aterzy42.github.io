@@ -68,7 +68,14 @@ This project leverages a Random Forest classifier to predict whether a stock wil
 
 <br>
 
-### Obligatory Projects ###
+### Obligatory Projects:
+
+### Titanic Prediction
+[Repo](https://github.com/aterzy42/Titanic)
+
+Can't have a portfolio without the Titanic project! This project is all about predicting survival rates for passengers aboard the Titanic using machine learning. The goal is to build a model that can determine whether a passenger survived or not, based on a set of features like age, sex, class, and fare.
+
+<img src="/assets/titanic.png" alt="Blah" width="800" height="250" />
 
 
 
