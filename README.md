@@ -46,7 +46,9 @@ When dealing with high dimensional data, common statistical tools often become i
 
 We are testing whether changing the first gate in a popular mobile game from level 30 to level 40 has a significant impact on user retention. To do this, we apply Permutation Tests to assess if the observed differences in retention rates are statistically significant, and Bootstrap to calculate confidence intervals for the retention differences. The goal is to understand whether the new feature has a meaningful impact on short-term and long-term user engagement.
 
-<img src="/assets/nobroker.png" alt="Blah1" width="477" height="245" />
+<img src="/assets/cookiecat.png" alt="Blah1" width="450" height="250" />
+<img src="/assets/bootstrap.png" alt="Blah1" width="425" height="210" />
+
 
 
 
