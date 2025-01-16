@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras, Excel, PowerBI, R
 
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+
 ## Education						       		
 - M.S. Applied Mathematics	| California State University Northridge (_August 2020_)	 			        		
 - B.S. Mathematics | California State University Northridge (_May 2017_)
