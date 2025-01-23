@@ -22,7 +22,6 @@
 **ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
 - Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, enhancing forecast accuracy and decision-making for creator partnerships.
 - Developed a forecasting model utilizing time series and machine learning techniques to predict YouTube video revenue, cutting manual underwriting time by 50% and improving valuation precision for creator deals.
-Spearheaded the creation of features for a decision tree model, automating 20% of monthly channel valuations, removing the need for underwriting team review, and streamlining the process.
 - Collaborated with the sales team to craft data-driven narratives, which were later communicated to global YouTube creators, directly contributing to the successful closure of multiple multi-million-dollar contracts.
 - Built Excel and Power BI dashboards using data from various YouTube APIs to fulfill ad hoc requests, enabling the team to uncover key trends and make data-driven decisions in a fast-paced, results-driven environment.
 
