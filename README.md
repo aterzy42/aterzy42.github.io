@@ -1,6 +1,14 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras, Excel, PowerBI, R
+#### Technical Skills: 
+- **Programming Languages**: Python, SQL, R
+- **Data Analysis & Manipulation**: Pandas, NumPy, Excel
+- **Machine Learning**: Scikit-learn, Keras, Machine Learning Algorithms (e.g., Regression, Classification, Clustering, etc.)
+- **Data Visualization & BI Tools**: Matplotlib, Seaborn, Power BI
+- **Computer Vision**: OpenCV, Scikit-Image
+- **Statistical Analysis**: A/B Testing, Hypothesis Testing, Statistical Modeling (e.g., Linear Regression, Bootstrap, etc.)
+- **Version Control**: Git
+
 
 - [Education](#education)
 - [Work Experience](#work-experience)
@@ -12,34 +20,34 @@
 
 ## Work Experience
 **ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
-- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, improving forecast accuracy and enabling more reliable financial planning for creator partnerships.
-- Led development of a forecasting model in Python and SQL to predict revenue per thousand views on a YouTube video, reducing manual underwriting time by 50% and increasing valuation precision for creator deals.
-- Collaborated with the sales team to craft data-driven narratives for global YouTube creators, leading to the closure of multi-million dollar contracts and expanding high-value partnerships.
-- Designed and executed ad-hoc SQL queries to extract and organize data, delivering detailed reports in Excel to enable faster, more informed decision-making.
-- Streamlined data processing using SQL and developed a Power BI dashboard to track valuation performance, providing actionable insights that improved team collaboration and refined underwriting strategies.
+- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, enhancing forecast accuracy and decision-making for creator partnerships.
+- Developed a forecasting model utilizing time series and machine learning techniques to predict YouTube video revenue, cutting manual underwriting time by 50% and improving valuation precision for creator deals.
+Spearheaded the creation of features for a decision tree model, automating 20% of monthly channel valuations, removing the need for underwriting team review, and streamlining the process.
+- Collaborated with the sales team to craft data-driven narratives, which were later communicated to global YouTube creators, directly contributing to the successful closure of multiple multi-million-dollar contracts.
+- Built Excel and Power BI dashboards using data from various YouTube APIs to fulfill ad hoc requests, enabling the team to uncover key trends and make data-driven decisions in a fast-paced, results-driven environment.
 
 **MACHINE LEARNING SPECIALIST – COMPUTER VISION @ Bluehalo (_September 2019 - October 2022_)**
-- Developed multiple anomaly detection methods in Python for satellite imagery and designed a PyQT5-based GUI for image annotation, improving object detection model training accuracy by streamlining the data labeling process.
+- Developed multiple anomaly detection methods in Python for satellite imagery to identify key targets, making annotation feasible by highlighting crucial areas for labeling, and designed a PyQT5-based GUI to streamline the annotation process as part of a broader object detection task.
 - Built a state estimation pipeline using OpenCV, integrating image processing techniques such as key point extraction, centroid estimation, and symmetry detection, enhancing object tracking accuracy and performance for real-time applications.
 - Delivered presentations to stakeholders, interpreting complex methodologies and providing actionable insights that influenced strategic planning and informed next steps, driving informed decision-making.
+
 
 **TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
 - Delivered engaging lectures and recitations for precalculus and higher-level courses, improving student comprehension and engagement.
 - Provided personalized tutoring and support during office hours, addressing individual student challenges and improving academic performance.
-- Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to successfully complete Kaggle challenges and strengthening their foundational skills for future coursework.
+- Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to complete Kaggle challenges and strengthening their foundational skills for future coursework.
 
 **RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
-- Applied various regression models to predict the effectiveness of specific weapon designs, uncovering new insights into critical performance factors that guided the development of more efficient and effective designs.
-- Created advanced visualizations with Matplotlib to analyze data, revealing patterns and previously unnoticed
-similarities among outliers, leading to further research and more accurate modeling.
-- Partnered with cross-functional teams from academia, government, and industry to present findings and address
-complex research challenges, fostering collaboration and driving innovative solutions.
+- Developed regression models to analyze high-power microwave simulation results, extracting key performance factors to drive iterative design improvements. Documented and optimized code for future scholars, enabling continued experimentation and advancing virtual prototyping efficiency.
+- Created advanced Matplotlib visualizations to analyze complex datasets, revealing hidden patterns and correlations that drove deeper research insights.
+- Partnered with cross-functional teams from academia, government, and industry to present findings and address complex research challenges, fostering collaboration and driving innovative solutions.
+
   
 ## Projects
 ### An Investigation of Distance-Based Statistical Methods in High Dimensions
 [Repo](https://github.com/aterzy42/CurseofDimensionality)
 
-When dealing with high dimensional data, common statistical tools often become ineffective. This thesis examines causes of these issues through an exploration of high dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and also introduce a new test statistic for the general distribution free two-sample problem. Other applications are briefly considered.
+Common statistical tools often become ineffective when dealing with high-dimensional data. This thesis examines the causes of these issues by exploring high-dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and introduce a new test statistic for the general distribution-free two-sample problem. Other applications are briefly considered.
 
 <img src="/assets/simplex" alt="Blah" width="370" height="290" />
 
