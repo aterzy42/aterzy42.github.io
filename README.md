@@ -1,6 +1,6 @@
 # Data Scientist
 
-- [Technical Skills](#techincal-skills)
+- [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Projects](#projects)
