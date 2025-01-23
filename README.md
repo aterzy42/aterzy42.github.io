@@ -1,6 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: 
+- [Technical Skills](#techincal-skills)
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+
+## Technical Skills: 
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis & Manipulation**: Pandas, NumPy, Excel
 - **Machine Learning**: Scikit-learn, Keras, Machine Learning Algorithms (e.g., Regression, Classification, Clustering, etc.)
@@ -8,11 +13,6 @@
 - **Computer Vision**: OpenCV, Scikit-Image
 - **Statistical Analysis**: A/B Testing, Hypothesis Testing, Statistical Modeling (e.g., Linear Regression, Bootstrap, etc.)
 - **Version Control**: Git
-
-
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
 
 ## Education						       		
 - M.S. Applied Mathematics	| California State University Northridge (_August 2020_)	 			        		
