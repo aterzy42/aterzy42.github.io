@@ -1,9 +1,9 @@
 # Data Scientist
 
 - [Technical Skills](#technical-skills)
+- [Projects](#projects)
 - [Education](#education)
 - [Work Experience](#work-experience)
-- [Projects](#projects)
 
 ## Technical Skills: 
 - **Programming Languages**: Python, SQL, R
@@ -14,34 +14,6 @@
 - **Statistical Analysis**: A/B Testing, Hypothesis Testing, Statistical Modeling (e.g., Linear Regression, Bootstrap, etc.)
 - **Version Control**: Git
 
-## Education						       		
-- M.S. Applied Mathematics	| California State University Northridge (_August 2020_)	 			        		
-- B.S. Mathematics | California State University Northridge (_May 2017_)
-
-## Work Experience
-**ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
-- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, enhancing forecast accuracy and decision-making for creator partnerships.
-- Developed a forecasting model utilizing time series and machine learning techniques to predict YouTube video revenue, cutting manual underwriting time by 50% and improving valuation precision for creator deals.
-- Collaborated with the sales team to craft data-driven narratives, which were later communicated to global YouTube creators, directly contributing to the successful closure of multiple multi-million-dollar contracts.
-- Built Excel and Power BI dashboards using data from various YouTube APIs to fulfill ad hoc requests, enabling the team to uncover key trends and make data-driven decisions in a fast-paced, results-driven environment.
-
-**MACHINE LEARNING SPECIALIST – COMPUTER VISION @ Bluehalo (_September 2019 - October 2022_)**
-- Developed multiple anomaly detection methods in Python for satellite imagery to identify key targets, making annotation feasible by highlighting crucial areas for labeling, and designed a PyQT5-based GUI to streamline the annotation process as part of a broader object detection task.
-- Built a state estimation pipeline using OpenCV, integrating image processing techniques such as key point extraction, centroid estimation, and symmetry detection, enhancing object tracking accuracy and performance for real-time applications.
-- Delivered presentations to stakeholders, interpreting complex methodologies and providing actionable insights that influenced strategic planning and informed next steps, driving informed decision-making.
-
-
-**TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
-- Delivered engaging lectures and recitations for precalculus and higher-level courses, improving student comprehension and engagement.
-- Provided personalized tutoring and support during office hours, addressing individual student challenges and improving academic performance.
-- Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to complete Kaggle challenges and strengthening their foundational skills for future coursework.
-
-**RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
-- Developed regression models to analyze high-power microwave simulation results, extracting key performance factors to drive iterative design improvements. Documented and optimized code for future scholars, enabling continued experimentation and advancing virtual prototyping efficiency.
-- Created advanced Matplotlib visualizations to analyze complex datasets, revealing hidden patterns and correlations that drove deeper research insights.
-- Partnered with cross-functional teams from academia, government, and industry to present findings and address complex research challenges, fostering collaboration and driving innovative solutions.
-
-  
 ## Projects
 ### An Investigation of Distance-Based Statistical Methods in High Dimensions
 [Repo](https://github.com/aterzy42/CurseofDimensionality)
@@ -120,6 +92,36 @@ Can't have a portfolio without the Titanic project! This project is all about pr
 
 <img src="/assets/titanic.png" alt="Blah" width="800" height="250" />
 
+
+
+## Education						       		
+- M.S. Applied Mathematics	| California State University Northridge (_August 2020_)	 			        		
+- B.S. Mathematics | California State University Northridge (_May 2017_)
+
+## Work Experience
+**ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
+- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, enhancing forecast accuracy and decision-making for creator partnerships.
+- Developed a forecasting model utilizing time series and machine learning techniques to predict YouTube video revenue, cutting manual underwriting time by 50% and improving valuation precision for creator deals.
+- Collaborated with the sales team to craft data-driven narratives, which were later communicated to global YouTube creators, directly contributing to the successful closure of multiple multi-million-dollar contracts.
+- Built Excel and Power BI dashboards using data from various YouTube APIs to fulfill ad hoc requests, enabling the team to uncover key trends and make data-driven decisions in a fast-paced, results-driven environment.
+
+**MACHINE LEARNING SPECIALIST – COMPUTER VISION @ Bluehalo (_September 2019 - October 2022_)**
+- Developed multiple anomaly detection methods in Python for satellite imagery to identify key targets, making annotation feasible by highlighting crucial areas for labeling, and designed a PyQT5-based GUI to streamline the annotation process as part of a broader object detection task.
+- Built a state estimation pipeline using OpenCV, integrating image processing techniques such as key point extraction, centroid estimation, and symmetry detection, enhancing object tracking accuracy and performance for real-time applications.
+- Delivered presentations to stakeholders, interpreting complex methodologies and providing actionable insights that influenced strategic planning and informed next steps, driving informed decision-making.
+
+
+**TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
+- Delivered engaging lectures and recitations for precalculus and higher-level courses, improving student comprehension and engagement.
+- Provided personalized tutoring and support during office hours, addressing individual student challenges and improving academic performance.
+- Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to complete Kaggle challenges and strengthening their foundational skills for future coursework.
+
+**RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
+- Developed regression models to analyze high-power microwave simulation results, extracting key performance factors to drive iterative design improvements. Documented and optimized code for future scholars, enabling continued experimentation and advancing virtual prototyping efficiency.
+- Created advanced Matplotlib visualizations to analyze complex datasets, revealing hidden patterns and correlations that drove deeper research insights.
+- Partnered with cross-functional teams from academia, government, and industry to present findings and address complex research challenges, fostering collaboration and driving innovative solutions.
+
+  
 
 
 
