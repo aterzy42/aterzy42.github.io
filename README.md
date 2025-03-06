@@ -37,7 +37,7 @@ We are testing whether changing the first gate in a popular mobile game from lev
 
 <br>
 
-### Predicting Clicks On a Real Estate Posting
+### Predicting Clicks On a Real Estate Posting Using Poisson Regression
 [Repo](https://github.com/aterzy42/Property_Click)
 
 This project focuses on developing a predictive model to estimate user interactions with real estate listings posted on NoBroker, a popular online platform in India. The assignment, which was posted on StrataScratch, challenges participants to build a model that forecasts how likely users are to interact with various listings on the website. The task involves analyzing rent amount, location, and others factors  that influence interactions.
@@ -100,15 +100,26 @@ Can't have a portfolio without the Titanic project! This project is all about pr
 
 ## Work Experience
 **ANALYTICS MANAGER @ Spotter (_October 2022 - November 2024_)**
-- Estimated future cash flows for unconventional financial products offered to YouTube channels using retention and cohort analysis, enhancing forecast accuracy and decision-making for creator partnerships.
-- Developed a forecasting model utilizing time series and machine learning techniques to predict YouTube video revenue, cutting manual underwriting time by 50% and improving valuation precision for creator deals.
-- Collaborated with the sales team to craft data-driven narratives, which were later communicated to global YouTube creators, directly contributing to the successful closure of multiple multi-million-dollar contracts.
-- Built Excel and Power BI dashboards using data from various YouTube APIs to fulfill ad hoc requests, enabling the team to uncover key trends and make data-driven decisions in a fast-paced, results-driven environment.
+- As a Data Analyst supporting underwriting and portfolio analytics teams, estimated future cash flows for unconventional financial products offered to YouTube channels, leveraging retention and cohort analysis to improve forecast accuracy and drive decision-making for creator partnerships.
+
+- Developed a forecasting model using time series techniques in Python, alongside extensive data cleaning and organization with SQL, to predict monetization rates for YouTube videos, reducing manual underwriting time by 50% and improving the precision of creator deal valuations.
+
+- Collaborated with the sales team to create data-driven narratives under tight deadlines, pulling data from Redshift using SQL and organizing it in Excel pivot tables and charts to deliver ad hoc analyses that contributed to securing over $50,000,000 in contracts with global YouTube creators.
+
+- Built and automated ETL-driven dashboards using multiple YouTube API data sources in Excel and Power BI, expediting underperforming deal reviews, enabling faster executive feedback, and saving 3 hours weekly through template creation.
+
 
 **MACHINE LEARNING SPECIALIST – COMPUTER VISION @ Bluehalo (_September 2019 - October 2022_)**
-- Developed multiple anomaly detection methods in Python for satellite imagery to identify key targets, making annotation feasible by highlighting crucial areas for labeling, and designed a PyQT5-based GUI to streamline the annotation process as part of a broader object detection task.
-- Built a state estimation pipeline using OpenCV, integrating image processing techniques such as key point extraction, centroid estimation, and symmetry detection, enhancing object tracking accuracy and performance for real-time applications.
-- Delivered presentations to stakeholders, interpreting complex methodologies and providing actionable insights that influenced strategic planning and informed next steps, driving informed decision-making.
+- Applied computer vision and image processing techniques to satellite imagery for space situational awareness tasks in the aerospace and defense sector, working in an Agile environment with a security clearance.
+
+- Created anomaly detection algorithms in Python to automate region proposal generation and designed a PyQT5-based GUI, reducing annotation time by 50% and speeding up the creation of high-quality training data for object detection models.
+
+- Constructed a state estimation pipeline in OpenCV for post-detection target tracking, utilizing interpolation, centroid estimation, and symmetry detection, achieving low RMSE in velocity and position estimates as part of a successful proof of concept.
+
+- Engineered advanced streak detection techniques to process and analyze large-scale space sensor data, improving object tracking precision and data processing efficiency.
+
+- Regularly presented methodologies to stakeholders, simplifying complex technical concepts, identifying inefficiencies, and leveraging the latest research to drive strategic planning and project prioritization.
+
 
 
 **TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
@@ -117,9 +128,12 @@ Can't have a portfolio without the Titanic project! This project is all about pr
 - Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to complete Kaggle challenges and strengthening their foundational skills for future coursework.
 
 **RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
-- Developed regression models to analyze high-power microwave simulation results, extracting key performance factors to drive iterative design improvements. Documented and optimized code for future scholars, enabling continued experimentation and advancing virtual prototyping efficiency.
-- Created advanced Matplotlib visualizations to analyze complex datasets, revealing hidden patterns and correlations that drove deeper research insights.
-- Partnered with cross-functional teams from academia, government, and industry to present findings and address complex research challenges, fostering collaboration and driving innovative solutions.
+- Completed a summer internship at Kirtland Air Force Base, focusing on leveraging machine learning techniques to expedite high-power microwave simulation analysis and streamline design processes.
+
+- Optimized multiple regression models to analyze simulation results, using random forest techniques to identify key factors, driving design improvements, and enhancing virtual prototyping, while templatizing and documenting code for future research.
+
+- Produced advanced interactive 3D Matplotlib visualizations to transform complex datasets into clear, actionable insights, uncovering hidden patterns and trends that drove hypothesis development and informed critical research decisions.
+
 
   
 
