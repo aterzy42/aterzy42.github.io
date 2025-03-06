@@ -124,7 +124,9 @@ Can't have a portfolio without the Titanic project! This project is all about pr
 
 **TEACHING ASSOCIATE, MATHEMATICS @ California State University, Northridge (_August 2017 - May 2020_)**
 - Delivered engaging lectures and recitations for precalculus and higher-level courses, improving student comprehension and engagement.
+  
 - Provided personalized tutoring and support during office hours, addressing individual student challenges and improving academic performance.
+  
 - Led a summer intensive on data science for incoming students, covering coding, statistics, and machine learning, enabling students to complete Kaggle challenges and strengthening their foundational skills for future coursework.
 
 **RESEARCH SCHOLAR - MACHINE LEARNING @ Air Force Research Laboratory (_June 2019 - August 2019_)**
