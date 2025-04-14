@@ -15,13 +15,13 @@
 - **Version Control**: Git
 
 ## Projects
-### An Investigation of Distance-Based Statistical Methods in High Dimensions
-[Repo](https://github.com/aterzy42/CurseofDimensionality)
+### Market Returns Based on Economic Conditions Full Stack
+[Repo](https://github.com/aterzy42/Stock_Screener)
 
-Common statistical tools often become ineffective when dealing with high-dimensional data. This thesis examines the causes of these issues by exploring high-dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and introduce a new test statistic for the general distribution-free two-sample problem. Other applications are briefly considered.
+Built a full-stack web application that analyzes historical stock index returns based on macroeconomic conditions. Financial data is sourced via scheduled ETL pipelines using Airflow from Yahoo Finance and Alpha Vantage, and stored in a PostgreSQL database. The frontend, developed in Streamlit with a FastAPI backend, allows users to filter by economic indicators (e.g., inflation, unemployment) and explore periods where those conditions were met. Users can visualize 3- and 5-year forward returns across major indices, along with interactive line charts showing index performance from selected starting points.
 
 <img src="/assets/git_gif2.gif" alt="Blah" width="356" height="332" />
-<img src="/assets/process.png" alt="Blah" width="356" height="332" />
+<img src="/assets/process.png" alt="Blah" width="400" height="332" />
 
 <br>
 
