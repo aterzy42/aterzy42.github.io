@@ -24,6 +24,15 @@ Common statistical tools often become ineffective when dealing with high-dimensi
 
 <br>
 
+### An Investigation of Distance-Based Statistical Methods in High Dimensions
+[Repo](https://github.com/aterzy42/CurseofDimensionality)
+
+Common statistical tools often become ineffective when dealing with high-dimensional data. This thesis examines the causes of these issues by exploring high-dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and introduce a new test statistic for the general distribution-free two-sample problem. Other applications are briefly considered.
+
+<img src="/assets/simplex" alt="Blah" width="370" height="290" />
+
+<br>
+
 ### Retention Analysis on Cookie Cats Mobile Game: A/B Test with Permutation and Bootstrap Tests
 [Repo](https://github.com/aterzy42/Cookie_AB)
 
