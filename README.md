@@ -20,7 +20,7 @@
 
 Common statistical tools often become ineffective when dealing with high-dimensional data. This thesis examines the causes of these issues by exploring high-dimensional spaces. We present some counterintuitive mathematical and statistical results from a geometric view. These results are exploited to modify an existing classification method and introduce a new test statistic for the general distribution-free two-sample problem. Other applications are briefly considered.
 
-<img src="/assets/git_gif2.gif" alt="Blah" width="600" height="600" />
+<img src="/assets/git_gif2.gif" alt="Blah" width="356" height="332" />
 
 <br>
 
