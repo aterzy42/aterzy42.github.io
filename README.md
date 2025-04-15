@@ -20,7 +20,7 @@
 
 Built a full-stack web application that analyzes historical stock index returns based on macroeconomic conditions. Financial data is sourced via scheduled ETL pipelines using Airflow from Yahoo Finance and Alpha Vantage, and stored in a PostgreSQL database. The frontend, developed in Streamlit with a FastAPI backend, allows users to filter by economic indicators (e.g., inflation, unemployment) and explore periods where those conditions were met. Users can visualize 3- and 5-year forward returns across major indices, along with interactive line charts showing index performance from selected starting points.
 
-<img src="/assets/git_gif2.gif" alt="Blah" width="356" height="332" />
+<img src="/assets/git_gif2.gif" alt="Blah" width="500" height="475" />
 <img src="/assets/process.png" alt="Blah" width="400" height="332" />
 
 <br>
