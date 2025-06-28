@@ -21,17 +21,14 @@
 
 FuzzyMerge is a no-code Streamlit app for cleaning and merging messy CSV/XLSX files. It guides users through a visual workflow to:
 
-Align mismatched columns across files
-
-Detect and handle missing values and numeric outliers
-
-Apply fuzzy matching to standardize inconsistent text entries
-
-Remove duplicate rows
-
-Export cleaned data with full change logs
+- Align mismatched columns across files  
+- Detect and handle missing values and numeric outliers  
+- Apply fuzzy matching to standardize inconsistent text entries  
+- Remove duplicate rows  
+- Export cleaned data with full change logs  
 
 Built for analysts who regularly deal with inconsistent spreadsheets. Includes sample data for instant demo.
+<img src="/assets/fuzzy.png" alt="Blah" width="400" height="332" />
 <br>
 ### Market Returns Based on Economic Conditions Full Stack
 [Repo](https://github.com/aterzy42/Stock_Screener)
